@@ -1,2 +1,2 @@
-# Snake-Game
-The classic snake game
+Snake Game
+With custom modifications
